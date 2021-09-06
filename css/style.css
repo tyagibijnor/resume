@@ -282,7 +282,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/home-bg-2.jpg);
+    background: url(../myimg/main-img.jpg);
     background-size: cover;
     height: 100vh;
 }
@@ -311,11 +311,11 @@ a.active {
 
 .about-border {
     position: absolute;
-    border: 10px solid #425BB5;
+    border: 10px solid #101011;
     width: 400px;
-    height: 400px;
+    height: 550px;
     top: 40px;
-    left: 50px;
+    left: 100px;
     z-index: 1
 }
 
